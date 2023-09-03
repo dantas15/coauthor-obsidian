@@ -1,0 +1,160 @@
+{
+  "main": {
+    "id": "77db27353b056614",
+    "type": "split",
+    "children": [
+      {
+        "id": "b3361d15675ea805",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "59e7c1919db73180",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "templates/novo post.md",
+                "mode": "source",
+                "source": false
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "3db3ac0470ff17a5",
+    "type": "split",
+    "children": [
+      {
+        "id": "5d5d008d8ab849e1",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "296a43245117f05b",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "63700f568720b2e9",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "dddc729705538a84",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "7f91e5950fdf08bc",
+    "type": "split",
+    "children": [
+      {
+        "id": "289c8eef6761356d",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "8d9522753d4558fa",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "templates/novo post.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "16f1b6edc84cd625",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "templates/novo post.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "806fe61bca551a75",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          },
+          {
+            "id": "b3ffabfc442a2e78",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "templates/novo post.md"
+              }
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "59e7c1919db73180",
+  "lastOpenFiles": [
+    "posts/Ordenação externa em C++.md",
+    "templates/novo post.md",
+    "como-usar.md",
+    "README.md",
+    "img/print-conteudos.png",
+    "Untitled",
+    "img",
+    "posts",
+    "templates"
+  ]
+}
